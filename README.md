@@ -1,115 +1,58 @@
-<!-- I improved the readme.md file of my github profile after a lot of time -->
-
-<h1 align="center">Hrutik Chaudhari 💡🛠️💻</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer+%26+Full+Stack+Developer;MERN+%7C+Data+%26+ML+Pipelines+%7C+AI+with+LLMs" alt="Typing SVG" />
-</h1>
-
-
-<!-- ✨ Top Skills Section with custom layout -->
-<p align="center">
-  <!-- Line 1: Tech Stack + Databases -->
-  <img src="https://img.shields.io/badge/Tech%20Stack-FastAPI%20%7C%20Node.js%20%7C%20React%20%7C%20REST%20APIs-6C8EBF?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20Firebase%20%7C%20FAISS%20%7C%20Pinecone-A3C9A8?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-LangChain%20%7C%20BERT%20%7C%20RAG%20%7C%20OpenAI%20%7C%20Whisper%20%7C%20Gemini%20%7C%20Prompt%20Engineering-9E8AD9?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
----
-
-## About Me – The Caffeine-Coded Truth ☕
-
-👨‍💻 This is Hrutik Chaudhari — AI Engineer, Full Stack Developer, and part-time debugger of both code and reality
-
-😴 Debugging before my first cup of coffee? Risky. But once the ☕ kicks in, even runtime errors start apologizing.
-
-🛠️ My toolbox includes:
-- 🔧 Node.js, FastAPI, React  
-- 🔗 LangChain & OpenAI API  
-- 🧠 Gemini, Whisper, BERT  
-- 🐘 PostgreSQL, Firebase, Pinecone  
-- 🧪 Git, Docker, and the holy trio: Stack Overflow, Postman, and pure persistence
-
-☕ So grab your coffee, scroll through my GitHub, and explore how this caffeine-powered engineer is building the future — one intelligent feature at a time.
-
----
-
-## Languages and Tools
-
-<p align="left">
-  
-  
-  
-
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BERT-FFB300?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Whisper-0A0A0A?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FCC624?style=flat&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0A0A0A?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-2F4550?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-1C8D73?style=flat&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-734F96?style=flat&logo=openai&logoColor=white"/>
-</p>
-
-
----
+<h1 align="center">Hrutik Chaudhari</h1>
 
 <p align="center">
-  <!-- GitHub Top Languages -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrutikchaudhari05&layout=compact&theme=radical" />
-   
+  <strong>Software Engineer • Backend Engineering</strong>
 </p>
 
 <p align="center">
-  <!-- LeetCode Stats via DenverCoder1 (More Stable) -->
-  <img src="https://leetcard.jacoblin.cool/hrutikchaudhari05?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats" />
+  Java • REST APIs • SQL • Distributed Systems • Cloud
 </p>
 
-## 📫 Contact
+## About
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hrutikchaudhari05@gmail.com)
+I am a Software Engineer focused on building reliable backend systems and production-ready applications.
 
----
+My professional experience includes **Rest.li** and **Ember.js**, while my project experience spans **Node.js, Express, React, MongoDB, and AI/LLM integrations**. I am currently deepening my backend specialization through **Java, Spring Boot, SQL, distributed systems, and cloud engineering**.
 
-## 🌐 Profiles
+## Featured Projects
 
-<p align="left">
-  <a href="https://linkedin.com/in/hrutikchaudhari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/hrutikchaudhari05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://leetcode.com/u/hrutikchaudhari05/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-</p>
+### MockMate — AI-Powered Mock Interview Platform
 
+A full-stack platform that creates role-specific interview questions and evaluates candidate responses with structured AI feedback.
 
----
+- Built timed, full-screen interview flows with controlled retries
+- Added voice responses, transcription, AI evaluation, and question-level feedback
+- Implemented authentication, input validation, rate limiting, and media storage
+- **Stack:** React, Redux Toolkit, Node.js, Express, MongoDB, OpenAI, AssemblyAI, Cloudinary
+- [Live Demo](https://mockmate-ai-nine.vercel.app/)
 
-> ⚡ Always learning. Always building. Always improving.
+### [Enquirix](https://github.com/hrutikchaudhari05/Enquirix) — Data Entry and Storage Application
+
+A work-in-progress full-stack application for capturing, validating, and managing structured data.
+
+- **Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
+- **Current status:** API integration and validation in progress
+
+## Current Engineering Focus
+
+- Java and modern Java
+- Spring Boot, REST API design, and PostgreSQL
+- Docker, cloud fundamentals, and distributed systems
+- Data structures and algorithms
+- Low-level design and system design
+
+## Technical Experience
+
+| Area | Technologies |
+|---|---|
+| Backend | Java, Node.js, Express, Rest.li, REST APIs |
+| Databases | PostgreSQL, MySQL, MongoDB |
+| Frontend | React, Ember.js, JavaScript |
+| AI integrations | OpenAI API, AssemblyAI |
+| Engineering tools | Git, Docker, Postman |
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/hrutikchaudhari/)
+- [LeetCode](https://leetcode.com/u/hrutik__05/)
+- [Email](mailto:hrutikchaudhari05@gmail.com)
