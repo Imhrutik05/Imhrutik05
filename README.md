@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=007ACC&center=true&vCenter=true&width=900&height=70&lines=Java+%7C+Rest.li+%7C+REST+APIs+%7C+Microservices;React+%7C+Node.js+%7C+Python+%7C+LangChain+%7C+LLM+APIs" alt="Java backend and AI-powered full-stack technologies" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Production%20Backend-Java%20%7C%20Rest.li%20%7C%20Play%20Framework-6C8EBF?style=for-the-badge" alt="Production backend experience" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20%26%20AI-React%20%7C%20Node.js%20%7C%20Python%20%7C%20LLM%20APIs-A3C9A8?style=for-the-badge" alt="Full-stack and AI project experience" />
-  <img src="https://img.shields.io/badge/Backend%20Growth-Spring%20Boot%20%7C%20SQL%20%7C%20Distributed%20Systems-9E8AD9?style=for-the-badge" alt="Backend engineering growth areas" />
-</p>
-
 ---
 
 ## About Me – The Caffeine-Coded Truth ☕
@@ -27,6 +21,11 @@
 🚀 I'm growing toward deeper backend engineering through **Spring Boot, SQL, Docker, distributed systems, cloud, DSA, and system design**.
 
 ☕ Give me a meaningful problem, a clean API contract, and enough coffee—I’ll happily keep debugging until the entire flow makes sense.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Production%20Backend-Java%20%7C%20Rest.li%20%7C%20Microservices-1F6FEB?style=for-the-badge" alt="Production backend experience with Java, Rest.li, and microservices" />
+  <img src="https://img.shields.io/badge/AI%20Product%20Engineering-React%20%7C%20Node.js%20%7C%20Python%20%7C%20LLM%20APIs-6F42C1?style=for-the-badge" alt="AI product engineering with React, Node.js, Python, and LLM APIs" />
+</p>
 
 ---
 
