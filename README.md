@@ -96,10 +96,6 @@ An end-to-end water-potability prediction project with data preprocessing, explo
 
 ---
 
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrutikchaudhari05&layout=compact&theme=radical" alt="Most used languages" />
-</p>
-
 ## 📫 Connect
 
 <p align="left">
