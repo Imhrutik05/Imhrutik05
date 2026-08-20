@@ -100,10 +100,6 @@ An end-to-end water-potability prediction project with data preprocessing, explo
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrutikchaudhari05&layout=compact&theme=radical" alt="Most used languages" />
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/hrutik__05?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode activity" />
-</p>
-
 ## 📫 Connect
 
 <p align="left">
