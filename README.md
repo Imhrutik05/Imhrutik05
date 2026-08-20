@@ -1,7 +1,7 @@
 <h1 align="center">Hrutik Chaudhari 💡🛠️💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=900&height=90&lines=Software+Engineer+%7C+Backend+Engineer;Java+%7C+Rest.li+%7C+REST+APIs+%7C+Microservices;AI-Powered+Full+Stack+%7C+React+%7C+Node.js+%7C+LLM+APIs" alt="Software Engineer focused on backend systems and AI-powered applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=950&height=90&lines=Software+Engineer+%7C+Backend+%26+AI-Powered+Systems;Java+%7C+Rest.li+%7C+REST+APIs+%7C+Microservices;React+%7C+Node.js+%7C+Python+%7C+LangChain+%7C+LLM+APIs;Building+with+RAG+%7C+Embeddings+%7C+Vector+Databases" alt="Software Engineer building backend systems and AI-powered applications" />
 </p>
 
 <p align="center">
