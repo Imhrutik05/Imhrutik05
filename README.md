@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=007ACC&center=true&vCenter=true&width=1000&height=70&lines=Full+Stack+Software+Engineer+%7C+React+%7C+Node.js+%7C+REST+APIs;AI-Powered+Applications+%7C+LLM+APIs+%7C+RAG+In+Progress" alt="Full-stack software engineering and AI-powered application development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=007ACC&center=true&vCenter=true&width=1000&height=70&lines=Full+Stack+Software+Engineer+%7C+React+%7C+Node.js+%7C+REST+APIs;AI-Powered+Applications+%7C+LLM+APIs+%7C+RAG" alt="Full-stack software engineering and AI-powered application development" />
 </p>
 
 ---
